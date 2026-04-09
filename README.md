@@ -1,9 +1,10 @@
-# Hi there, I'm Deeksha Gupta! 👋
+# Hi, I'm Deeksha Gupta 👋
 
-## 👩‍💻 Data Analyst | Power BI Developer | Microsoft PL-300 Certified
+## 🧑‍💼 Data Analyst | Power BI Developer | PL-300 Certified
 
-3+ years of experience transforming complex data into actionable business insights.
-Building end-to-end BI solutions using Power BI, SQL, Python and PostgreSQL.
+📍 Bengaluru, India
+📧 deeksha513g@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/deeksha-gupta-/)
 
 ---
 
@@ -42,6 +43,5 @@ Building end-to-end BI solutions using Power BI, SQL, Python and PostgreSQL.
 
 ## 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeksha-gupta)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deeksha513g@gmail.com)
 
